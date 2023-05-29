@@ -30,9 +30,9 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 
 - 🌱 I’m currently in love with <b>DeepLearning</b>
 - 🔭 Simultaneously exploring <b>Web3</b>
-- 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
+- 💬 Ask me about **Web Development** and **Internships**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at : **akankush2000@gmail.com** && **ankush@mackph.com**
+- 📫 Reach me at : **mdfaiyaz1303@gmail.com**
 - ⚡ Fun fact: I love designing and travelling to explore new places.
 - ❤️ Building a community to make an impact by training new generations on cutting edge \
 technologies to meet future requirements.</br>
@@ -59,34 +59,27 @@ technologies to meet future requirements.</br>
    <summary>📃 Resume</summary>
 
  ## Education
- - 📍 **Uttarakhand Technical University**-----------------------**< 2019-2023 >**\
+ - 📍 **Uttarakhand Technical University**-----------------------**< 2020-2024 >**\
  📖**Bachelor's of technology-< Information Technology >**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2017-2019 >**\
+ - 📍 **Chinmaya Vidyalaya, Bokaro Steel City**------------------**< 2017-2019 >**\
    📖**Senior Secondary Schooling-< Intermediate Science >**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2012-2017 >**\
+ - 📍 **Don Bosco Academy, Maccluskiegunj, Ranchi**------------------**< 2012-2017 >**\
    📖**Secondary Schooling**
  
    
    
    
  ## Experience
- -  👨‍💻 **Back-end Developer**---------------------------< Internship >\
- 📆 Feb,2022 - moment\
-📍 **Youth India Foundation** - New Delhi, India
+ -  👨‍💻 **Front-End Developer**---------------------------< Internship >\
+ 📆 Nov,2022 - moment\
+📍 **The Sparks Foundation**
    
- -  👨‍💻 **Open Source Contributor**----------------------< Apprenticeship >\
+ -  👨‍💻 **Java Programming**----------------------<Internship >\
    📆 Feb,2022 - moment\
-   📍 **GirlScript Summer of Code** - Maharashtra, India
+   📍 **Oasis Infobyte**
    
- -  👨‍💻 **Owner**------------------------------------------< Founder >\
-   📆 Oct,2020 - moment\
-   📍 **Mackph.com** - Roorkee, India
-   
- -  👨‍💻 **Internshala Student Partner (ISP 16)**-------------< Part Time >\
-   📆 Dec,2019 - Jun,2020\
-   📍 **Internshala** - Roorkee, India
 
    </details>
    
